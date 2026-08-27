@@ -40,48 +40,6 @@ Cybersecurity AI • Intrusion Detection • Network Traffic Analysis • Anomal
 
 ---
 
-## Featured Projects
-
-### Intrusion Detection System (Cybersecurity AI)
-Machine learning-based intrusion detection system for identifying malicious network traffic using anomaly detection and supervised learning.
-
-**Highlights**
-- Feature engineering on raw network packet data
-- Low false-positive threat detection
-- Performance evaluation using Precision, Recall, F1-score, and AUC-ROC
-
----
-
-### Gold Pattern Detection System
-Computer vision system for automated gold chain pattern classification and similarity detection.
-
-**Highlights**
-- Custom YOLOv2-based object detection
-- Image preprocessing and augmentation pipeline
-- Automated visual inspection workflow
-
----
-
-### LLM Chatbot Application
-Production-ready chatbot built using LangChain and Ollama-hosted models.
-
-**Highlights**
-- Modular architecture with pluggable model backends
-- Prompt pipeline optimization
-- Retrieval-Augmented Generation experimentation
-
----
-
-### Gold Price Forecasting System
-Built during internship to predict gold price trends using machine learning regression models.
-
-**Highlights**
-- Random Forest, SVM, Linear Regression, XGBoost
-- Hyperparameter tuning with GridSearchCV
-- Interactive Power BI insights dashboard
-
----
-
 ## Current Focus
 
 Currently building and improving systems in:
@@ -91,18 +49,6 @@ Currently building and improving systems in:
 - Computer Vision
 - AI for Cybersecurity
 - Intelligent Automation
-
----
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karan27q&theme=dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karan27q&theme=dark&hide_border=true" />
-</p>
-
----
 
 ## Connect
 
